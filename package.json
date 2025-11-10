@@ -1,0 +1,22 @@
+{
+  "name": "password-score-validator",
+  "version": "1.0.0",
+  "description": "Validador de Senha por Pontuação para Azure Static Web Apps",
+  "type": "module",
+  "scripts": {
+    "start": "swa start",
+    "build": "echo 'No build needed for static content'",
+    "test": "echo 'No tests yet'"
+  },
+  "keywords": [
+    "azure",
+    "static-web-apps",
+    "password-validator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^1.1.0"
+  }
+}
+
